@@ -1,0 +1,25 @@
+﻿{
+  "BreakLvlMapping": {
+    "......": "Strong",
+    "...": "Strong",
+    "\r\n": "Strong",
+    "\n": "Strong",
+    "……": "Strong",
+    "…": "Strong",
+    "~~~": "Strong",
+    ".": "Medium",
+    "。": "Medium",
+    "!": "Medium",
+    "?": "Medium",
+    "！": "Medium",
+    "？": "Medium",
+    ";": "Medium",
+    "；": "Medium",
+    "，": "Weak",
+    ",": "Weak",
+    "、": "XWeak",
+    "/": "XWeak"
+  },
+  "BreakLvlDetail": null,
+  "BreakLvlFloatRate": 0.08
+}
